@@ -1,5 +1,5 @@
 # TeddVirtualNetworkCamClient
- Python version of Tedd.VirtualNetworkCam.Client, enabling Python OpenCV frames to be sent to a Tedd Network Virtual Camera on Windows.
+Python version of Tedd.VirtualNetworkCam.Client, enabling Python OpenCV Mat Frame to be sent to Tedd Network Virtual Camera on Windows.
 
 ## Installing
 Head to https://github.com/tedd/Tedd.VirtualNetworkCam and follow the instruction to install the VirtualNetworkCam
